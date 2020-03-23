@@ -1,4 +1,4 @@
-# Build a Weather Web App :sunny:
+# Weather Web App :sunny:
 
 Link to my project: https://weather-app-linda.netlify.com/
 
